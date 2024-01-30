@@ -1,3 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: acumin-pro, pretendard, "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, -apple-system, system-ui, "Noto Sans KR", sans-serif;
+    font-style: normal;
+    position: relative;
+    box-sizing: border-box;
+    word-break: keep-all;
+    white-space: pre-wrap;
+    -webkit-font-smoothing: antialiased;
+}
+
+html, body{
+    overflow-x: hidden;
+}
+
 .topMenu div{
     display: flex;
     -webkit-box-align: center;
