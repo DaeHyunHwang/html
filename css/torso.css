@@ -31,9 +31,6 @@ html, body{
 .mainBody{
     text-align: center;
     width: 100%;
-}
-
-.mainBody div{
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
