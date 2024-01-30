@@ -78,6 +78,22 @@ a:hover{ 
     text-decoration: underline;
 }
 
+.select{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.select > div {
+    width: calc(25% - 1.875rem);
+    margin-bottom: 0px;
+    display: grid;
+    gap: 2.5rem;
+}
+
 h3{
     font-size: 1.6rem;
 }
