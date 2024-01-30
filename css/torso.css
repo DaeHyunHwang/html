@@ -80,3 +80,13 @@ body {
 html {
     font-size: calc(6.44561px + 0.150376vw);
 }
+
+.dzuSqL .step-circle {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 100%;
+    margin-right: 2rem;
+}
