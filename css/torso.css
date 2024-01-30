@@ -28,7 +28,6 @@
 }
 
 html, body, #__next {
-    height: calc(var(--vh) * 100);
     overflow-x: hidden;
 }
 
