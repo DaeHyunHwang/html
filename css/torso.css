@@ -90,3 +90,89 @@ html {
     border-radius: 100%;
     margin-right: 2rem;
 }
+
+.dzuSqL > div {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-right: 3vw;
+}
+
+.fHLNzJ > div > div {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+}
+
+.bwSTpE {
+    max-width: 240px;
+}
+
+svg:not(:root) {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+}
+
+.fHLNzJ h3 {
+    text-align: center;
+    padding: 0em 0px calc(8.4rem);
+}
+
+h3, .h3, h3 *, .h3 * {
+    line-height: calc(4.7979rem);
+}
+
+h3, .h3 {
+    font-size: 3.554rem;
+    font-weight: 700;
+    padding-bottom: 0.4em;
+}
+
+.bLKvSi {
+    appearance: none;
+    border-radius: 0px;
+    font-size: 2.666rem;
+    font-weight: 700;
+    display: block;
+    cursor: pointer;
+    padding: 0.7em 2.25em 0.9em;
+    min-height: 2.954em;
+    width: 100%;
+    margin-bottom: 1em;
+    background: rgb(34, 34, 34);
+    color: rgb(255, 255, 255);
+}
+
+.cMqUeM {
+    display: block;
+    margin-top: 2.5rem;
+    font-weight: 500;
+    color: rgb(96, 96, 96);
+    text-align: center;
+    width: 100%;
+}
+
+input, textarea, button, form {
+    font-size: inherit;
+    border-radius: 0px;
+}
+
+input, textarea, button {
+    outline: none;
+    border: none;
+}
+
+button {
+    background-color: transparent;
+    color: inherit;
+    cursor: pointer;
+}
+
+.cMqUeM {
+    display: block;
+    margin-top: 2.5rem;
+    font-weight: 500;
+    color: rgb(96, 96, 96);
+    text-align: center;
+    width: 100%;
+}
