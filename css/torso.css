@@ -37,6 +37,10 @@ html, body{
     color: rgb(34, 34, 34);
 }
 
+.topMenu span{
+    font-size: 1.2rem;
+}
+
 .selfBtn{
     width: 100%;
     font-weight: 700;
