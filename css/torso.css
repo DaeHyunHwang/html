@@ -14,6 +14,14 @@ html, body{
     overflow-x: hidden;
 }
 
+.step1, .mainBody{
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .topMenu{
     display: flex;
     position: fixed;
@@ -27,14 +35,6 @@ html, body{
 
 .topMenu .active{
     color: rgb(34, 34, 34);
-}
-
-.mainBody{
-    text-align: center;
-    width: 100%;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .selfBtn{
