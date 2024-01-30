@@ -117,3 +117,17 @@ input[type="radio"] {
     -webkit-box-align: center;
     align-items: center;
 }
+
+.select-radio label {
+    border: 1px solid rgb(189, 189, 189);
+    padding: 1em 0.5em;
+    min-height: 3em;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    cursor: pointer;
+    text-align: center;
+    font-weight: 700;
+}
