@@ -75,3 +75,8 @@ body {
     text-align: center;
     width: 100%;
 }
+
+@media (min-width: 1000px)
+html {
+    font-size: calc(6.44561px + 0.150376vw);
+}
