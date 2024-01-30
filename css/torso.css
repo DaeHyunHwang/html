@@ -14,14 +14,18 @@ html, body{
     overflow-x: hidden;
 }
 
-.topMenu div{
+.topMenu{
     display: flex;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0px);
+    font-weight: 700;
+    color: rgb(189, 189, 189);
     -webkit-box-align: center;
 }
 
-.topMenu div .active{
-    font-weight: 700;
-    color: #222222;
+.topMenu .active{
+    color: rgb(34, 34, 34);
 }
 
 .mainBody{
