@@ -55,9 +55,6 @@ body {
 
 .fHLNzJ {
     grid-column: 1 / 13;
-    min-height: calc(100vh - 8rem);
-    padding-top: clamp(4.461rem, 11.1525vw - 1.39406rem, 17.844rem);
-    margin-top: 2rem;
     display: flex;
     -webkit-box-align: center;
     align-items: center;
