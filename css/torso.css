@@ -21,6 +21,7 @@ html, body{
     transform: translate(-50%, 0px);
     font-weight: 700;
     color: rgb(189, 189, 189);
+    top: 2rem;
     -webkit-box-align: center;
 }
 
