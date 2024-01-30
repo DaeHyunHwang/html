@@ -47,3 +47,7 @@ html, body{
     background: rgb(34, 34, 34);
     color: rgb(255, 255, 255);
 }
+
+.underline{
+    text-decoration: underline;
+}
